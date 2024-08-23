@@ -1,5 +1,4 @@
-\\\\\\\\\\\\\\\\\\\
-It looks like you've shared a script and analysis based on a Kaggle notebook for a credit card fraud detection project. The notebook provides a step-by-step guide on how to import data, perform exploratory data analysis (EDA), and apply machine learning models to detect fraudulent transactions.
+ The notebook provides a step-by-step guide on how to import data, perform exploratory data analysis (EDA), and apply machine learning models to detect fraudulent transactions.
 
 The key aspects of the analysis include:
 
